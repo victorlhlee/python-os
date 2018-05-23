@@ -1,0 +1,3 @@
+hackthebox.py
+passwords.txt
+supersecretsquirrel.encrypted
